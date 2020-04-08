@@ -4,7 +4,7 @@ bio:                'Page of Nicolas Magain'
 description:        "Page of Nicolas Magain"
 locale:             en_US
 url: nicolasmagain.github.io
-baseurl: tree/gh-pages/
+baseurl: 
 
 
 # Comments
