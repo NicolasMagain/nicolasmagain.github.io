@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Example post"
+date:   2020-04-05
+excerpt: "This is an example of a post"
+image: "/images/peltigerasmall.jpg"
+---
+
+## Another post
+Here is some other things I could say
+## A little more
+### And more here
