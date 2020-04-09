@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Example post"
-date:   2020-04-01
+date:   2020-04-02
 excerpt: "This is an example of a post"
-image: "/images/peltigerasmall.jpg"
+image: "/images/myface.jpg"
 ---
 
 ## A post

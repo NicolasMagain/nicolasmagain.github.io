@@ -1,10 +1,10 @@
 ---
 layout: page2
-title: Nicolas Magain - About 
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Nicolas Magain - Teaching 
+description: About my teaching
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2020-04-09
     changefreq: weekly
 ---
 ## Teaching
@@ -14,5 +14,5 @@ sitemap:
 ### My work
 <div class="box">
   <p>
- In development </p>
+I'm teacking a few classes at the bachelor and master levels at the University of Liège. In a little bit of time, there will be more info about it here. </p>
 </div>
