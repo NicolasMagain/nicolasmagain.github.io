@@ -7,3 +7,4 @@ journalinfo: Plant and Fungal Systematics, 63(2), 45-64.
 pdf: "/PDF/Peltidea.pdf"
 orbi: "https://orbi.uliege.be/handle/2268/231114"
 journal: "https://content.sciendo.com/view/journals/pfs/63/2/article-p45.xml"
+---
