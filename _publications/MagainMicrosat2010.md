@@ -1,7 +1,6 @@
 ---
 short_title: MagainMicrosat2010
 title: Microsatellite primers in the Peltigera dolichorhiza complex (lichenized ascomycete, Peltigerales)
-
 authors: Magain, N., Forrest, L.L., Sérusiaux, E. & Goffinet, B.
 year: 2010
 journalinfo: American journal of botany 97 (10), e102-e104
