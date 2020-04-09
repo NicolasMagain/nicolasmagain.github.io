@@ -15,9 +15,10 @@ sitemap:
     {% assign sorted = (site.publications | sort: 'year') | reverse %}
     {% for publication in sorted %}
     <h4><a href="{{ publication.pdf | absolute_url }}" class="fas fa-file-pdf"></a> {{ publication.title }}</h4>
-      <div>       {{ publication.year }}.  {{ publication.authors }} </div>
- <a href="{{ publication.orbi | absolute_url }}" class="smallbutton">ORBI</a>
+      <span style="line-height: -100px ;">       {{ publication.year }}.  {{ publication.authors }}  {{ publication.journalinfo }}</span>
+<br /> <a href="{{ publication.orbi | absolute_url }}" class="smallbutton">ORBI</a>
   <a href="{{ publication.journal | absolute_url }}" class="smallbutton">Journal Website</a>
+  {% if publication.supplementary %} <a href="{{ publication.supplementary | absolute_url }}" class="smallbutton">SUPPLEMENTARY MATERIAL</a>{% endif %}
 <br />
     {% endfor %}
 </ul>

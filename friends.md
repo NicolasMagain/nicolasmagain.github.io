@@ -16,5 +16,5 @@ sitemap:
 <br /> The page of the nice <a href="http://lutzonilab.org/"> Lutzoni lab</a> website. </p>
 
   <p>
- In development </p>
+<a href="http://www.lichenology.org/">Website of International Assocation for Lichenology (IAL)</a></p>
 </div>

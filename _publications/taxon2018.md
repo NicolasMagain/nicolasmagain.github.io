@@ -7,4 +7,5 @@ journalinfo: Taxon, 67(5), 836-870.
 pdf: "/PDF/MagainTaxon2018.pdf"
 orbi: https://orbi.uliege.be/handle/2268/228263
 journal: "https://academic.oup.com/sysbio/article/66/1/74/2670079"
+supplementary: "/supplementary/taxon2018supplementary.pdf"
 ---

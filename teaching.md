@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page
 title: Nicolas Magain - Teaching 
 description: About my teaching
 sitemap:
