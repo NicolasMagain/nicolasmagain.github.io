@@ -18,6 +18,6 @@ sitemap:
 <br /> The very useful page of the <a href="http://lutzonilab.org/"> Lutzoni lab</a> website. </p>
 
   <p>
-<a href="https://mycophygolife.org/"Mycophygolife project</a>  
+<a href="https://mycophygolife.org/">Mycophygolife project</a>  
 <a href="http://www.lichenology.org/">Website of International Assocation for Lichenology (IAL)</a></p>
 </div>
