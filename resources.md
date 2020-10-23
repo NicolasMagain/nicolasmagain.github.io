@@ -9,9 +9,12 @@ sitemap:
 ---
 ## Resources
 
-
-<p> In development
-### My work
+<h2>ULiège</h2>
+<p>
+<a href="https://www.facebook.com/Herbarium-ULiege-1035583183280944/">Facebook page of the ULiège herbarium</a>
+<br />
+<a href="https://www.facebook.com/groups/354480141371128/">Facebook page of the ULiège master in conservation biology and biodiversity management</a>
+</p>
 <h2>Lichens</h2>
   <p>
 <a href="http://www.lichenology.info/cgi-bin/baseportal.pl?htx=atlas">Lichens of Belgium, Luxemburg and Northern France</a>

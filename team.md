@@ -26,9 +26,20 @@ sitemap:
 <h4>Lea Mouton</h4>
 <p>Lea is actively involved in organizing the logistics and teaching for the specialized master in conservation biology and biodiversity management.</p>
 <br />
-<h2>Alumni</h2>
+<h2>Alumni PhD Students</h2>
 <h4><a href="https://scholar.google.com/citations?user=-Tul63cAAAAJ&hl=en&fbclid=IwAR3iP1z5OmqlC-7BvVUbQR79_ya5rxfzM35Ag8eQX3xWbgGYMegXCwZpF0w">Antoine Simon</a></h4>
 <p>Antoine successfully defended his PhD thesis entitled "The multi-organismal nature of lobarioid lichens: phylogenetic and transcriptomic studies on photomorphs" in October 2020.</p>
+<br />
+<h2>Alumni PhD Students</h2>
+<h4>Alyssa Kolkman</h4>
+<p>Master thesis with Natagriwal "Evaluation de l'efficacité des bandes fleuries à favoriser les insectes pollinisateurs, en particulier les papillons de jour, via l'étude du butinage." (September 2020) Advisors: C. Dopagne & N. Magain.
+<br />
+<a class="smallbutton" target="_blank" href="/PDF/kolkman.pdf">Download</a> <a class="smallbutton" target="_blank" href="https://matheo.uliege.be/handle/2268.2/9868">MatheO</a></p>
+<h4>Elise Dewaele</h4>
+<p>Master thesis with Natagriwal "Evaluation de la diversité floristique des prairies en MAEC « MC4 - prairie de haute valeur biologique » en Wallonie.	" (September 2020) Advisors: J. Piqueray & N. Magain.
+<br />
+<a class="smallbutton" target="_blank" href="/PDF/dewaele.pdf">Download</a> <a class="smallbutton" target="_blank" href="https://matheo.uliege.be/handle/2268.2/9878">MatheO</a></p>
+
 <br />
 <h2>Affiliations</h2>
 <p> <a href="http://www.bionat.ulg.ac.be/"> Evolution and Conservation Biology Unit, ULiège</a>
