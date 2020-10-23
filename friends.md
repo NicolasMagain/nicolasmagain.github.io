@@ -19,5 +19,5 @@ sitemap:
 
   <p>
 <a href="https://mycophygolife.org/">Mycophygolife project</a>  
-<a href="http://www.lichenology.org/">Website of International Assocation for Lichenology (IAL)</a></p>
+<br /> <a href="http://www.lichenology.org/">Website of International Assocation for Lichenology (IAL)</a></p>
 </div>
