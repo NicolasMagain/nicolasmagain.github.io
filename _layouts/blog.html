@@ -33,12 +33,9 @@
           <article class="post featured">
             <header class="major">
               <h2><a href="#">Blog</a></h2>
-              <p>Maybe one day there will be a blog post here
-							</p>
+							
             </header>
-						<p>
-							And the text will be here.
-						</p>
+
 				
           </article>
 					<!-- Post -->
@@ -56,14 +53,7 @@
 									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
-							{% if mod3 == 0 %}
-							<article>
-								<header>
-									<h2><a href="#">Sponsored</a></h2>
-								</header>
-
-							</article>
-							{% endif %}
+						
 						{% endfor %}
 
 					</section>

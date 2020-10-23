@@ -1,0 +1,10 @@
+bundle exec jekyll serve
+
+Browse to http://localhost:4000
+
+bundle exec jekyll build
+
+cd _site
+git add -A
+git commit -m "commited"
+git push
