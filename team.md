@@ -30,7 +30,7 @@ sitemap:
 <h4><a href="https://scholar.google.com/citations?user=-Tul63cAAAAJ&hl=en&fbclid=IwAR3iP1z5OmqlC-7BvVUbQR79_ya5rxfzM35Ag8eQX3xWbgGYMegXCwZpF0w">Antoine Simon</a></h4>
 <p>Antoine successfully defended his PhD thesis entitled "The multi-organismal nature of lobarioid lichens: phylogenetic and transcriptomic studies on photomorphs" in October 2020.</p>
 <br />
-<h2>Alumni PhD Students</h2>
+<h2>Alumni Master Students</h2>
 <h4>Alyssa Kolkman</h4>
 <p>Master thesis with Natagriwal "Evaluation de l'efficacité des bandes fleuries à favoriser les insectes pollinisateurs, en particulier les papillons de jour, via l'étude du butinage." (September 2020) Advisors: C. Dopagne & N. Magain.
 <br />
