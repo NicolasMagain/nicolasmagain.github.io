@@ -10,14 +10,12 @@ sitemap:
 ## Friends
 
 
-<p> The website of the great phycologist <a href="https://eterlova.weebly.com/"> Elizaveta Terlova</a>
-<br /> The very impressive page of <a href="https://kohsuanchen.wixsite.com/fungi">Chen Ko Hsuan's</a> lab.
-<br /> The extremely impressive website of the great <a href="https://www.pardodelahoz.com/">Carlos J. Pardo De la Hoz</a>.
-<br /> The website of the cool lichenologist <a href="https://imedeirosbotany.wordpress.com/"> Ian Medeiros</a>
-<br /> The very nice page of <a href="http://romaindarnajoux.alwaysdata.net/">Romain Darnajoux</a>, biogeochemist.
-<br /> The very useful page of the <a href="http://lutzonilab.org/"> Lutzoni lab</a> website. </p>
-
+<p> The great website of the phycologist <a href="https://eterlova.weebly.com/"> Elizaveta Terlova</a>
+<br /> The impressive website of <a href="https://kohsuanchen.wixsite.com/fungi">Chen Ko Hsuan's</a> lab.
+<br /> The beautiful website of <a href="https://www.pardodelahoz.com/">Carlos J. Pardo De la Hoz</a>.
+<br /> The cool website of the lichenologist <a href="https://imedeirosbotany.wordpress.com/"> Ian Medeiros</a>
+<br /> The nice website of <a href="http://romaindarnajoux.alwaysdata.net/">Romain Darnajoux</a>, biogeochemist.
+<br /> The always useful website of the <a href="http://lutzonilab.org/"> Lutzoni lab</a>.
   <p>
 <a href="https://mycophygolife.org/">Mycophygolife project</a>  
 <br /> <a href="http://www.lichenology.org/">Website of International Assocation for Lichenology (IAL)</a></p>
-</div>

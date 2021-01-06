@@ -9,6 +9,9 @@ sitemap:
 ---
 <h2>Team members</h2>
 <h2>PhD Students</h2>
+<h4>Elise Lebreton</h4>
+<p>Elise is a FRIA PhD student who is working on systematics and ecology of lichens, fungi and bacteria growing on leaves in tropical forests.</p>
+
 <h4>Anne-Laure Geboes</h4>
 <p>Anne-Laure is studying bioacoustics and conservation of the Corn bunting (Bruant proyer, Emberiza calandra) in Belgium and Europe. She is also involved with teaching activities in the specialized master in conservation biology and biodiversity management.
 <h2>Master students</h2>
@@ -19,8 +22,6 @@ sitemap:
 <br />
 <h2>Other</h2>
 <h4>Laurent Gohy</h4> <p> Laurent is managing the molecular lab. He is a real pro in everything DNA extractions and PCR. He also has some duties with the herbarium, contributing to the management of collections</p>
-<h4>Elise Lebreton</h4>
-<p>Elise is a frequent visitor of the lab, where she collaborates on lichen systematics and ecological studies.</p>
 <h4>Ludovic Sottiaux</h4>
 <p>Ludovic is actively involved in teaching botany and conservation to the students of the specialized master in conservation biology and biodiversity management.</p>
 <h4>Lea Mouton</h4>
@@ -43,5 +44,5 @@ sitemap:
 <br />
 <h2>Affiliations</h2>
 <p> <a href="http://www.bionat.ulg.ac.be/"> Evolution and Conservation Biology Unit, ULiège</a>
-<br /> <a href="https://www.inbios.uliege.be/cms/c_4259640/fr/inbios">InBios Research Center, ULiège</a>
+<br /> <a href="https://www.inbios.uliege.be/cms/c_4259640/fr/inbios">InBioS Research Center, ULiège</a>
 <br /> <a href="https://www.sciences.uliege.be/cms/c_3966569/en/sciences">Faculté des Sciences, ULiège</a>
