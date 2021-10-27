@@ -12,4 +12,4 @@ Emmanuël has been my master thesis and PhD advisor. It has always been great to
 I was one of the guest editors of this volume alongside Damien Ertz (Meise), Bernard Goffinet (UCONN) and Paul Diederich (Luxemburg). We presented this special volume to him as a surprise (unfortunately through video for the other editors, given the circumstances). 
 Emmanuël was very happy to receive this special gift! The volume comprises sixteen papers (including fourteen on lichens) with descriptions of several new genera and species named after him. 
 Many thanks to all the authors who contributed, and special thanks to editors in chief Adam Flakus and Jolanta Miadlikowska for handling this special volume so well. 
-Please check the special issue on the <a href="http://pfsyst.botany.pl/Issue-1-2020,8594">journal webpage</a>. (picture credit: Laurent Gohy)
+Please check the special issue on the <a href="http://pfsyst.botany.pl/Issue-1-2020,8594" target="_blank">journal webpage</a>. (picture credit: Laurent Gohy)

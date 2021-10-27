@@ -15,7 +15,10 @@ sitemap:
 <br /> The beautiful website of <a href="https://www.pardodelahoz.com/">Carlos J. Pardo De la Hoz</a>.
 <br /> The cool website of the lichenologist <a href="https://imedeirosbotany.wordpress.com/"> Ian Medeiros</a>
 <br /> The nice website of <a href="http://romaindarnajoux.alwaysdata.net/">Romain Darnajoux</a>, biogeochemist.
+<br /> <a href="https://sites.google.com/a/illinois.edu/gterlov/">The very ergonomic website of mathematician Greg Terlov</a>
+
 <br /> The always useful website of the <a href="http://lutzonilab.org/"> Lutzoni lab</a>.
   <p>
 <a href="https://mycophygolife.org/">Mycophygolife project</a>  
-<br /> <a href="http://www.lichenology.org/">Website of International Assocation for Lichenology (IAL)</a></p>
+<br /> <a href="http://www.lichenology.org/">Website of International Assocation for Lichenology (IAL)</a>
+</p>
