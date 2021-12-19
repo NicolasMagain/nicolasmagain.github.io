@@ -74,3 +74,5 @@ exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.j
 collections:
   publications:
     output: true
+  members:
+    output: true
