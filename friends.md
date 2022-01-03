@@ -10,7 +10,7 @@ sitemap:
 ## Friends
 
 
-<p> The great website of the phycologist <a href="https://eterlova.weebly.com/"> Elizaveta Terlova</a>
+<p> The great website of the phycologist <a href="https://eterlova.github.io/"> Elizaveta Terlova</a>
 <br /> The impressive website of <a href="https://kohsuanchen.wixsite.com/fungi">Chen Ko Hsuan's</a> lab.
 <br /> The beautiful website of <a href="https://www.pardodelahoz.com/">Carlos J. Pardo De la Hoz</a>.
 <br /> The cool website of the lichenologist <a href="https://imedeirosbotany.wordpress.com/"> Ian Medeiros</a>

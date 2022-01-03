@@ -5,8 +5,8 @@ position: phd
 researchgate: https://www.researchgate.net/profile/Lea-Mouton
 googlescholar:
 membership: current
-year:
-text: "Lea is actively involved in organizing the logistics and teaching for the specialized master in conservation biology and biodiversity management, in addition to her thesis on ferns (main supervisor: Alain Vanderpoorten). Lea's projects include quantifying epiphytic fern and bryophyte biodiversity in Peru, and beta-diversity of plants in Macaronesia."
+year: 2026
+text: "My name is Lea Mouton, I am half a PhD student with Alain Vanderpoorten as main supervisor and half assistant to Nicolas Magain. In addition to organizing the logistics for the specialized master in conservation biology and biodiversity management, I support the students in their naturalistic journey and in their meetings with the various actors of the conservation of nature throughout their master’s. The aim of my PhD project is to assess the drivers and the patterns of land plants distribution in Macaronesia across taxa and scales. I also enjoy participating in side projects that include abroad fieldworks and epiphytic ferns, as a continuity of my master thesis."
 matheo:
 download:
 ---
